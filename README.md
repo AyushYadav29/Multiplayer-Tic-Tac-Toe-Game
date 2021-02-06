@@ -29,3 +29,7 @@ We have also added a game sound which is upbeat in nature.
 
 # Screenshots
 ![multiplayer](https://user-images.githubusercontent.com/56931013/107126163-4383d200-68d4-11eb-82ea-a36ddebc7027.jpg)
+![Times Up](https://user-images.githubusercontent.com/56931013/107126231-9493c600-68d4-11eb-83c1-44d818a197d7.png)
+![Won or Lost](https://user-images.githubusercontent.com/56931013/107126245-a5443c00-68d4-11eb-9ccf-001e90adc628.jpg)
+
+
