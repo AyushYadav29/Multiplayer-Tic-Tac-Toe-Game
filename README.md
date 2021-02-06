@@ -26,3 +26,11 @@ To reload the game press Spacebar.
 We are using Pycharm to execute our code.
 We used adobe Illustrator to make “X” and “O” images.
 We have also added a game sound which is upbeat in nature.
+
+# Screenshots
+<p>
+
+<img width="300" src="https://github.com/AyushYadav29/Multiplayer-Tic-Tac-Toe-Game/tree/main/TicTacToe_Multiplayer/screenshots/multiplayer.jpg" alt="Multiplayer" >
+<img width="300" src="https://github.com/AyushYadav29/Multiplayer-Tic-Tac-Toe-Game/tree/main/TicTacToe_Multiplayer/screenshots/timesup.jpg" alt="Times Up" >
+<img width="300" src="https://github.com/AyushYadav29/Multiplayer-Tic-Tac-Toe-Game/tree/main/TicTacToe_Multiplayer/screenshots/conclusion.jpg" alt="Won and Lost" >
+</p>
