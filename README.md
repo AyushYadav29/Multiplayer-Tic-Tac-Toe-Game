@@ -28,4 +28,4 @@ We used adobe Illustrator to make “X” and “O” images.
 We have also added a game sound which is upbeat in nature.
 
 # Screenshots
-![conclusion](https://github.com//AyushYadav29/Multiplayer-Tic-Tac-Toe-Game/tree/main/TicTacToe_Multiplayer/screenshots/conclusion.jpg)
+![multiplayer](https://user-images.githubusercontent.com/56931013/107126163-4383d200-68d4-11eb-82ea-a36ddebc7027.jpg)
